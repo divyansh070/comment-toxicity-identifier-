@@ -1,6 +1,9 @@
 # comment-toxicity-identifier-
 
 this project involves using neural network to detect whether the comment passed through it is
+
+
+
 <br>
 1. toxic 
 <br>
